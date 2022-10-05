@@ -97,6 +97,7 @@ button {
   display: flex;
   width: 100vw;
   justify-content: center;
+  gap: 40px;
 }
 
 .img-text {
