@@ -103,7 +103,7 @@ button {
 .img-text {
   display: flex;
   flex-direction: column;
-  width: 100px;
+  width: 150px;
 }
 
 .blank-box {
