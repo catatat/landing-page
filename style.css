@@ -78,8 +78,35 @@ button {
   font-weight: bold;
 }
 
+.white {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .information-header {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
   font-size: 36px;
   font-weight: 800;
   color: #1F2937
 }
+
+.information {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+
+.img-text {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+}
+
+.blank-box {
+  height: 100px;
+  border-style: solid;
+  border-color: #3882F6;
+}
+
