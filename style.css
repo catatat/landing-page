@@ -7,7 +7,7 @@ body {
   background-color: #1F2937;
   display: flex;
   flex-wrap: wrap;
-  padding: 0 180px;
+  padding: 20px 180px;
 }
 
 .header {
