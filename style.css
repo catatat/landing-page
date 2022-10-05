@@ -81,6 +81,8 @@ button {
 .white {
   display: flex;
   flex-wrap: wrap;
+  width: 100vw;
+  padding-bottom: 30px;
 }
 
 .information-header {
@@ -104,11 +106,14 @@ button {
   display: flex;
   flex-direction: column;
   width: 150px;
+  gap: 8px;
 }
 
 .blank-box {
-  height: 100px;
+  height: 150px;
   border-style: solid;
   border-color: #3882F6;
+  border-width: 4px;
+  border-radius: 8%
 }
 
