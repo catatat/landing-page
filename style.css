@@ -127,6 +127,10 @@ button {
 .quote {
   width: 60%;
   align-self: center;
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1F2937;
 }
 
 .reference {
