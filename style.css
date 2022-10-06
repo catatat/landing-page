@@ -119,5 +119,17 @@ button {
 
 .gray {
   background-color: #E5E7Eb;
+  display: flex;
+  flex-direction: column;
+  padding: 100px;
+}
+
+.quote {
+  width: 60%;
+  align-self: center;
+}
+
+.reference {
+  align-self: flex-end;
 }
 
