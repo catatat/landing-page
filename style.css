@@ -71,8 +71,11 @@ ul {
   align-items: center;
 }
 
-button {
+.blue {
   background-color: #3882F6;
+}
+
+button {
   border: none;
   border-radius: 6px;
   padding: 8px 30px;
@@ -148,16 +151,23 @@ button {
 }
 
 .call0 {
-  background-color: #3882F6;
   display: flex;
+  padding: 50px 50px;
+  justify-content: space-around;
+  border-radius: 10px;
 }
 
 .call1 {
   font-weight: bold;
   color: white;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .call2 {
-  color: #E5E7EB
+  color: #E5E7EB;
+  font-size: 18px;
+}
+
+#border {
+  border: solid;
 }
