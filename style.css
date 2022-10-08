@@ -52,8 +52,7 @@ ul {
 }
 
 .hero-text2,
-ul,
-button {
+ul {
   font-size: 18px;
   color: #E5E7EB;
 }
@@ -78,6 +77,8 @@ button {
   border-radius: 6px;
   padding: 8px 30px;
   font-weight: bold;
+  color: white;
+  font-size: 20px;
 }
 
 .white {
@@ -148,4 +149,15 @@ button {
 
 .call0 {
   background-color: #3882F6;
+  display: flex;
+}
+
+.call1 {
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
+
+.call2 {
+  color: #E5E7EB
 }
