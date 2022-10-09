@@ -41,6 +41,7 @@ Blue section starts
   display: flex;
   justify-content: space-between;
   padding-bottom: 100px;
+  gap: 25px;
 }
 
 .hero__container {
