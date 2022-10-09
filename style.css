@@ -53,14 +53,6 @@
   align-items: center;
 }
 
-.main-blue {
-  display: flex;
-  width: 100vw;
-  gap: 15px;
-  padding: 50px 0;
-  justify-content: space-between;
-}
-
 .main-left {
   width: 475px;
   display: flex;
