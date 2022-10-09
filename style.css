@@ -60,8 +60,14 @@ Blue section starts
   color: #E5E7EB;
 }
 
-.hero__button {
+.button {
   background-color: #3882F6;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 30px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
 }
 
 .hero__image {
@@ -81,15 +87,6 @@ Blue section ends
 .footer {
   font-size: 18px;
   color: #E5E7EB;
-}
-
-button {
-  border: none;
-  border-radius: 6px;
-  padding: 8px 30px;
-  font-weight: bold;
-  color: white;
-  font-size: 20px;
 }
 
 .white {
