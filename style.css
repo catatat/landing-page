@@ -52,6 +52,7 @@ Blue section starts
   flex-direction: column;
   width: 40%;
   align-items: flex-start;
+  gap: 8px;
 }
 
 .hero__heading {
