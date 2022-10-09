@@ -22,7 +22,6 @@
   padding: 0;
   gap: 20px;
   flex-wrap: wrap;
-  
 }
 
 .hero {
@@ -38,7 +37,8 @@
 }
 
 .hero__content {
-  
+  font-size: 18px;
+  color: #E5E7EB;
 }
 
 .hero__button {
