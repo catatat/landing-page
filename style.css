@@ -36,6 +36,9 @@
   color: #F9FAF8;
 }
 
+.hero__content {
+  
+}
 
 .main-blue {
   display: flex;
@@ -53,7 +56,6 @@
   gap: 8px;
 }
 
-.hero-text2,
 ul,
 .call2,
 .footer {
