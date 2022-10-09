@@ -19,6 +19,7 @@ Blue section starts
   justify-content: space-between;
   padding-top: 40px;
   padding-bottom: 100px;
+  align-items: end;
 }
 
 .header__logo {
