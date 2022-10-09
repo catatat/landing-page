@@ -22,6 +22,7 @@
   padding: 0;
   gap: 20px;
   flex-wrap: wrap;
+  
 }
 
 .hero {
@@ -61,7 +62,6 @@
   gap: 8px;
 }
 
-ul,
 .call2,
 .footer {
   font-size: 18px;
