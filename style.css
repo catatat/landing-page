@@ -56,14 +56,6 @@
   align-items: center;
 }
 
-.main-left {
-  width: 475px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 8px;
-}
-
 .call2,
 .footer {
   font-size: 18px;
