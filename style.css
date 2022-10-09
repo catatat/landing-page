@@ -40,6 +40,10 @@
   
 }
 
+.hero__button {
+  background-color: #3882F6;
+}
+
 .main-blue {
   display: flex;
   width: 100vw;
@@ -70,10 +74,6 @@ ul,
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.blue {
-  background-color: #3882F6;
 }
 
 button {
