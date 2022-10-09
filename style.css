@@ -30,6 +30,13 @@
   padding: 20px 190px;
 }
 
+.hero__heading {
+  font-size: 48px;
+  font-weight: 800;
+  color: #F9FAF8;
+}
+
+
 .main-blue {
   display: flex;
   width: 100vw;
@@ -44,12 +51,6 @@
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
-}
-
-.hero-text1 {
-  font-size: 48px;
-  font-weight: 800;
-  color: #F9FAF8;
 }
 
 .hero-text2,
