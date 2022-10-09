@@ -170,12 +170,8 @@ Blue section ends
   font-size: 22px;
 }
 
-#border {
+.button__white-border {
   border: solid;
-}
-
-.dark-color {
-  background-color: #1F2937;
 }
 
 .footer {
