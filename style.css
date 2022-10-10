@@ -86,7 +86,7 @@ Blue section starts
 }
 
 /* 
-Blue section ends 
+Information section starts
 */
 
 .call2,
@@ -95,7 +95,7 @@ Blue section ends
   color: #E5E7EB;
 }
 
-.white {
+.information {
   display: flex;
   flex-wrap: wrap;
   padding-bottom: 100px;
