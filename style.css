@@ -101,7 +101,7 @@ Information section starts
   padding-bottom: 100px;
 }
 
-.information-header {
+.information__header {
   display: flex;
   justify-content: center;
   font-size: 36px;
