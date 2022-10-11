@@ -120,16 +120,16 @@
   height: 150px;
 }
 
-/* Gray section starts below */
+/* Quote section starts below */
 
-.gray {
+.quote {
   background-color: #E5E7Eb;
   display: flex;
   flex-direction: column;
   padding: 100px;
 }
 
-.quote {
+.quote__text {
   width: 70%;
   align-self: center;
   font-size: 36px;
@@ -137,12 +137,14 @@
   font-style: italic;
 }
 
-.reference {
+.quote__name {
   align-self: flex-end;
   font-weight: bold;
   font-size: 20px;
   padding-right: 240px;
 }
+
+/* Call to action starts below */
 
 .bottom-white {
   padding: 80px 200px;
