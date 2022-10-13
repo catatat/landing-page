@@ -153,15 +153,17 @@
   border-radius: 10px;
 }
 
-.call1 {
+.call-to-action__heading {
   font-weight: bold;
   color: white;
   font-size: 22px;
 }
 
-.button__white-border {
+.button--white-border {
   border: solid;
 }
+
+/* footer below */
 
 .footer {
   display: flex;
