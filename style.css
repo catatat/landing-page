@@ -148,9 +148,11 @@
 
 .call-to-action {
   display: flex;
+  margin: 75px 0px;
   padding: 50px 50px;
   justify-content: space-around;
   border-radius: 10px;
+  background-color: #3882F6;
 }
 
 .call-to-action__heading {
@@ -159,8 +161,14 @@
   font-size: 22px;
 }
 
+.call-to-action__text {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
 .button--white-border {
   border: solid;
+  border-color: white;
 }
 
 /* footer below */
