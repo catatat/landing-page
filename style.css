@@ -146,28 +146,32 @@
 
 /* Call to action starts below */
 
-.bottom-white {
-  padding: 80px 200px;
-}
-
-.call0 {
+.call-to-action {
   display: flex;
+  margin: 75px 0px;
   padding: 50px 50px;
   justify-content: space-around;
   border-radius: 10px;
+  background-color: #3882F6;
 }
 
-.call1 {
+.call-to-action__heading {
   font-weight: bold;
   color: white;
   font-size: 22px;
 }
 
-.button__white-border {
-  border: solid;
+.call-to-action__text {
+  font-size: 18px;
+  color: #E5E7EB;
 }
 
-/* Footer below */
+.button--white-border {
+  border: solid;
+  border-color: white;
+}
+
+/* footer below */
 
 .footer {
   display: flex;
