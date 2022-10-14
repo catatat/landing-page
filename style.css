@@ -167,6 +167,8 @@
   border: solid;
 }
 
+/* Footer below */
+
 .footer {
   display: flex;
   justify-content: center;
